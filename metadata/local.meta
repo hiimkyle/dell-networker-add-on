@@ -1,0 +1,44 @@
+[props/dell%3Anetworker]
+owner = admin
+version = 8.0.1
+modtime = 1594557801.804269000
+
+[props/source%3A%3A...ta-add-on-for-dell-emc-networker%2A.log%2A]
+owner = admin
+version = 8.0.1
+modtime = 1594557802.102499000
+
+[props/source%3A%3A...ta_add_on_for_dell_emc_networker%2A.log%2A]
+owner = admin
+version = 8.0.1
+modtime = 1594557802.339363000
+
+[passwords/credential%3A__REST_CREDENTIAL__%23TA-add-on-for-dell-emc-networker%23configs%2Fconf-ta_add_on_for_dell_emc_networker_account%3Aadmin%60%60splunk_cred_sep%60%601%3A]
+owner = admin
+version = 8.0.1
+modtime = 1594561060.671453000
+
+[passwords/credential%3A__REST_CREDENTIAL__%23TA-add-on-for-dell-emc-networker%23configs%2Fconf-ta_add_on_for_dell_emc_networker_account%3Aadmin%60%60splunk_cred_sep%60%602%3A]
+owner = admin
+version = 8.0.1
+modtime = 1594561060.679622000
+
+[ta_add_on_for_dell_emc_networker_account/admin]
+owner = admin
+version = 8.0.1
+modtime = 1594561060.686539000
+
+[inputs/dell_networker%3A%2F%2Fnetworker01]
+owner = admin
+version = 8.0.1
+modtime = 1596593110.224540000
+
+[passwords/credential%3A__REST_CREDENTIAL__%23TA-dell-emc-networker-add-on-for-splunk%23configs%2Fconf-ta_dell_emc_networker_add_on_for_splunk_account%3Aadmin%60%60splunk_cred_sep%60%601%3A]
+owner = splunk-system-user
+version = 8.0.1
+modtime = 1596591206.162363000
+
+[passwords/credential%3A__REST_CREDENTIAL__%23TA-dell-emc-networker-add-on-for-splunk%23configs%2Fconf-ta_dell_emc_networker_add_on_for_splunk_account%3Aadmin%60%60splunk_cred_sep%60%602%3A]
+owner = splunk-system-user
+version = 8.0.1
+modtime = 1596591206.171882000
